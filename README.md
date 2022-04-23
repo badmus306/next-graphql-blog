@@ -51,12 +51,12 @@ A few screenshots of the project
 
 ### HomePage
 
-![alt text](https://github.com/badmus306/next-graphql-blog/raw/master/src/assets/images/Screenshot_1.png "Logo Title Text 1")
+![alt text](https://github.com/badmus306/next-graphql-blog/raw/master/public/Screenshot_1.png "Logo Title Text 1")
 
 
 ### Detail Page
 
-![alt text](https://github.com/badmus306/next-graphql-blog/raw/master/src/assets/images/Screenshot_2.png "Logo Title Text 1")
+![alt text](https://github.com/badmus306/next-graphql-blog/raw/master/public/Screenshot_2.png "Logo Title Text 1")
 
 
 
