@@ -43,7 +43,7 @@ npm run dev
 * **React** - A javascript library for building user interfaces
 * **Babel** - A transpiler for javascript
 * **Webpack** - A module bundler
-* **Bootstrap 5** - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
+* **Tailwind** - A CSS Framework.
 
 ## Screenshots  📸
 
